@@ -1,0 +1,7 @@
+export enum TypeCall {
+  CREATE_PROCESS,
+  WRITE_PROCESS,
+  READ_PROCESS,
+  DELETE_PROCESS,
+  STOP_PROCESS,
+}
